@@ -1,0 +1,432 @@
+body{
+  background-color: black;
+}
+
+.a2{
+ 
+  display: flex;
+  
+  
+}
+
+.logo{
+  width: 5%;
+  margin-top: 2%;
+  margin-left: 5%;
+  
+}
+.nav{
+  overflow: hidden;
+  background-color: black;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 100px;
+
+  
+}
+ul{
+  color: azure;
+  
+  float: right;
+  list-style-type: none;
+  margin-top: 2%;
+  margin-right: 6%;
+  overflow: hidden;  
+}
+li{
+  float: right;
+ 
+
+  font-size: 18;
+  
+}
+li a{
+  
+
+  float: left;
+  display: block;
+  color: #eeeeee;
+  text-align: center;
+  padding: 12px 20px;
+  text-decoration: none;
+  font-size: 16px;
+  letter-spacing: 1px;
+  font-family: sans-serif;
+}
+.m1{
+  
+  background-color: rgb(80, 255, 194);
+  color: black;
+  font-weight: bold;
+  border-radius: 25px;
+  
+}
+
+.detail{
+  display: flex;
+  padding: 18px;
+  margin-top: 35px;
+  height: 670px;
+ background-color: black;
+ color: #eeeeee;
+}
+
+.a5{
+  margin-top: 65px;
+  margin-left: 5%;
+  width: 25%;
+  height: 300px;
+  
+  
+
+}
+.a6{
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+.a7{
+  font-size: 65px;
+  letter-spacing: 4px;
+  color: rgb(80, 255, 194);
+}
+
+.a8{
+  margin-top: 150px;
+  
+}
+a{
+  color: white;
+}
+.ic{
+  font-size: 40px;
+  margin: 5%;
+  
+}
+.img_desc{
+  float: right;
+  display: flex;
+  
+
+}
+.a9{
+  width: 50%;
+  height: 600px;
+  margin-top: 30px;
+  margin-left: 8%;
+
+  
+}
+.a10{
+  width: 100%;
+  height: 600px;
+}
+.a11{
+  float: right;
+  margin-top: 150px;
+  margin-left: 8%;
+  margin-right: 5%;
+  width:45% ;
+  height:500px ;
+}
+.a12{
+  
+  font-size: 25px;
+  letter-spacing: 2.5px;
+}
+.a13{
+  font-size: 50px;
+  font-family: sans-serif;
+ 
+  letter-spacing: 1px;
+  color: palegoldenrod;
+}
+.a15{
+  font-size: 15px;
+  letter-spacing: 2px;
+  line-height: 24px;
+  font-family: sans-serif;
+  color: rgb(215, 215, 216);
+  
+}
+
+.project_tit{
+  width: 90%;
+  height: 45px;
+  margin-left: 5%;
+  margin-top: 100px;
+  
+  background-color: rgb(80, 255, 194);
+  
+
+}
+.project_buttons{
+  width: 90%;
+  height: 70px;
+  margin-left: 5%;
+ 
+  
+  background-color: rgb(80, 255, 194);
+  
+}
+.b1{
+  width:13%;
+  height: 40px;
+  margin-left: 12%;
+  font-size: 13px;
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 1px;
+  background-color: black;
+  color: white;
+}
+.b2{
+  width:13%;
+  height: 40px;
+  margin-left: 18%;
+  font-size: 13px;
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 1px;
+  background-color: black;
+  color: white;
+
+}
+.b3{
+  width:13%;
+  height: 40px;
+  margin-left: 18%;
+  font-size: 13px;
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 1px;
+  background-color: black;
+  color: white;
+}
+.project_title{
+  padding-top: 30px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: underline;
+}
+
+.project_list{
+  width: 90%;
+  height: 370px;
+  margin-left: 5%;
+ 
+  display: flex;
+  background-color: rgb(80, 255, 194);
+}
+.p1{
+  width:26.6%;
+  height: 250px;
+  margin-top: 100px;
+  margin-left: 5%;
+  background-color: black;
+}
+.project1{
+  width:100%;
+  height: 250px;
+}
+.project2{
+  width:100%;
+  height: 250px;
+}
+.project3{
+  width:100%;
+  height: 250px;
+}
+.p2{
+  width:26.6%;
+  height: 250px;
+  margin-top: 100px;
+  margin-left: 5%;
+  background-color: black;
+  float: right;
+}
+.p3{
+  width:26.6%;
+  height: 250px;
+  margin-top: 100px;
+  margin-left: 5%;
+  background-color: black;
+  float: right;
+}
+
+
+
+.internship{
+  width: 90%;
+  height: 650px;
+  margin-left: 5%;
+  background-color: rgb(80, 255, 194);
+}
+.internship_title{
+  padding-top: 30px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: underline;
+}
+
+.internship_list{
+  
+}
+.is1{
+  width: 80%;
+  height: 200px;
+  margin-top: 50px ;
+  margin-left: 10%;
+  background-color: black;
+  display: flex;
+}
+.intern_img1{
+  width: 10%;
+  height: 100px;
+  margin-top: 40px;
+  margin-left: 8%;
+}
+.intern_detail1{
+  margin-left: 15%;
+  color: white;
+  text-align: center;
+}
+.internship_title1{
+  font-size: 35px;
+  letter-spacing: 2.5px;
+  text-align: center;
+}
+.internship_DISC1{
+  font-size: 15px;
+  letter-spacing: 2px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.is2{
+  width: 80%;
+  height: 200px;
+  margin-top: 50px ;
+  margin-left: 10%;
+  background-color: black;
+  display: flex;
+}
+.intern_img2{
+  width: 10%;
+  height: 100px;
+  margin-top: 40px;
+  margin-left: 8%;
+}
+.intern_detail2{
+  margin-left: 15%;
+  color: white;
+  text-align: center;
+}
+.internship_title2{
+  font-size: 35px;
+  letter-spacing: 2.5px;
+  text-align: center;
+}
+.internship_DISC2{
+  font-size: 15px;
+  letter-spacing: 2px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+.service{
+  width: 90%;
+  height: 200px;
+  margin-top: 100px;
+  margin-left: 5%;
+  background-color: rgb(80, 255, 194);
+}
+.service_title{
+  padding-top: 30px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-family: 'Times New Roman', Times, serif;
+  text-decoration: underline;
+  height: 50px;
+  
+}
+
+.service_name{
+  height: 50px;
+  width: 80%;
+  display: flex;
+  color: #565555;
+  font-size: 30px;
+  letter-spacing: 2px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 0px;
+  padding: 0%;
+  margin-left:13% ;
+}
+
+.s_name1{
+ 
+  margin-left:5% ;
+}
+.s_name2{
+  margin-left:5% ;
+}
+.s_name3{
+  margin-left:5% ;
+}
+
+.footer{
+  width: 100%;
+  height: 200px;
+  margin-top: 50px;
+  border-top:groove;
+  border-color: rgb(81, 81, 81);
+  
+}
+.footer_icon{
+  display: flex;
+  text-align: center;
+  
+  margin-left: 40%;
+}
+.icf{
+  font-size: 40px;
+  margin-top: 50px;
+  
+  margin-left: 5%;
+}
+.footer_nav{
+  text-align: center;
+  font-size: 14px;
+}
+.contact{
+  margin-left: 40%;
+  color: rgb(232, 229, 229);
+  display: flex;
+  margin-top: 10px;
+  letter-spacing: 1.5px;
+}
+.mail_t{
+  font-size: 18px;
+  font-weight: bold;
+}
+.mail{
+  text-decoration: none;
+  font-size: 16px;
+  margin-left: 2%;
+  margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+  
